@@ -7,7 +7,9 @@ def menu():
   print('1.FOR LOOP')
   print('2.WHILE LOOP')
   print('3.EXIT')
-  print('________________________________________________')
+
+
+
   
 def numinput(num): #error handling when user inputs string
   try:
